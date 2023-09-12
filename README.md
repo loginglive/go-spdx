@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/github/go-spdx/v2@v2.1.2/spdxexp.svg)](https://pkg.go.dev/github.com/github/go-spdx/v2@v2.1.2/spdxexp)
+Ramsalm.com[![Go Reference](https://pkg.go.dev/badge/github.com/github/go-spdx/v2@v2.1.2/spdxexp.svg)](https://pkg.go.dev/github.com/github/go-spdx/v2@v2.1.2/spdxexp)
 
 # go-spdx
 
